@@ -1,3 +1,5 @@
+// Vincent Lam
+// Section Number 3
 #include <iostream>
 #include <fstream>
 #include <cstring>
